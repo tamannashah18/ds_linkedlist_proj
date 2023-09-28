@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-int not=1,cnt1=0,cnt2=0,avt;
+int cnt1=0,cnt2=0,avt;
 struct train{
     char pnr[11];
     char name[20];
